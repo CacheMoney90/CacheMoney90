@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and SQL for data analysis 
 - 📫 How to reach me carmenlj90@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a graphic designer, and I make ceramic art.
+- ⚡ Fun fact: I am a design strategist, and I make ceramic art.
 
 <!---
 CacheMoney90/CacheMoney90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
