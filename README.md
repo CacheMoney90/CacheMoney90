@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CacheMoney90
+- 👋 Hi, I’m Carmen
 - 👀 I’m interested in communication design and digital humanities.
 - 🌱 I’m currently learning Python and SQL for data analysis. 
 - 📫 How to reach me carmenlj90@gmail.com
